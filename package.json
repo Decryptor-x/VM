@@ -1,0 +1,10 @@
+{
+  "name": "vm-manager",
+  "version": "1.0.0",
+  "description": "Virtual Machine management system",
+  "scripts": {
+    "start": "./src/vm_manager.sh"
+  },
+  "author": "Decryptor-x",
+  "license": "MIT"
+}
